@@ -1,0 +1,8 @@
+DB_DATABASE=codesroc_ecommerce_admin
+DB_USERNAME=codesroc_ecommerce_admin
+DB_PASSWORD=ecommerce_admin
+
+
+
+-----------------------------
+bcsbooks_ecommerce_admin
